@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brianna Glenn! <br/> <a href="https://www.linkedin.com/in/brianna-glenn-5716b0199">Cybersecurity Professional</a>
+<h1>Hi, I'm Brianna Glenn! <br/> <a href="https://www.linkedin.com/in/brianna-glenn-5716b0199"></a>
 
 <h2>👩🏽‍💻Projects:</h2>
 
