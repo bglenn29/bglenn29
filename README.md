@@ -1,15 +1,19 @@
-<h1>Hi, I'm Brianna Glenn! <br/> <a href="https://www.linkedin.com/in/brianna-glenn-5716b0199"></a>
+<h1>Hi, I'm Brianna Glenn! <br/>
+<a href="https://www.linkedin.com/in/brianna-glenn-5716b0199">LinkedIn</a>
+</h1>
 
-<h2>👩🏽‍💻Projects:</h2>
+<h2>👩🏽‍💻 Projects:</h2>
 
+- [AI ResearchOps Platform](https://github.com/bglenn29/ai-researchops) — AI-powered document intelligence platform using RAG, LangChain, Claude API, MCP tools, FastAPI, and React. Upload research papers, ask questions, get AI answers grounded in your documents.
 
-<h2>📄 Certification:</h2>
+<h2>🛠️ Tech Stack:</h2>
 
-  - [CompTIA Security+ ce Certification](https://www.credly.com/badges/3206e6f8-2fd4-4c0a-927b-4b1223fbcfda/linked_in_profile) <b><i>
+- **AI & ML:** Python, LangChain, RAG, Claude API, LLMs, Prompt Engineering, AI Agents, MCP
+- **Web:** FastAPI, React, REST APIs
+- **Cloud:** AWS (EC2, IAM), Docker
+- **Security:** MITRE ATT&CK, Threat Modeling, AI Risk Governance
 
 <h2>🤳🏽 Connect with me:</h2>
 
-- <b>[email]: glennbrianna5@gmail.com</b>
-- <b>[linkedin]: https://linkedin.com/in/brianna-glenn-5716b0199</b>
-
-
+- **Email:** glennbrianna5@gmail.com
+- **LinkedIn:** https://linkedin.com/in/brianna-glenn-5716b0199
